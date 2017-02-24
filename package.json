@@ -1,0 +1,24 @@
+{
+  "name": "salonichatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saloni",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddid/salonichatbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siddid/salonichatbot/issues"
+  },
+  "homepage": "https://github.com/siddid/salonichatbot#readme"
+}
